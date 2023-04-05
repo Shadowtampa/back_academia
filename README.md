@@ -23,9 +23,4 @@
 ## Autores
 
 - [@shadowtampa](https://www.github.com/shadowtampa)
-- [@Arthurzitos ](https://www.github.com/Arthurzitos)
-- [@giovannimnz](https://www.github.com/giovannimnz)
-- [@Neyvo](https://www.github.com/Neyvo)
-
-
 
